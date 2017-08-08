@@ -7,3 +7,4 @@ class
 }
 
 system.out.print("111");
+system.out.print("222");
